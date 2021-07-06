@@ -1,0 +1,16 @@
+{
+  "name": "linked-list-java-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linked-list.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node linked-list.js"
+  },
+  "author": "Simeon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.4.0"
+  }
+}
